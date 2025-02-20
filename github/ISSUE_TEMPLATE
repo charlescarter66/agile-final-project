@@ -1,0 +1,17 @@
+---
+name: "User Story"
+about: "Template for user stories"
+title: "[FEATURE] - "
+labels: enhancement
+assignees: ""
+---
+
+**As a** [user role],  
+**I need** [feature or capability],  
+**So that** [benefit or reason].
+
+### Acceptance Criteria (Gherkin Syntax)
+
+Given [precondition]
+When [action taken]
+Then [expected outcome]
